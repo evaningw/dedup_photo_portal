@@ -1,0 +1,24 @@
+2025-07-13 18:53:29.850754: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-13 18:53:31.011140: I tensorflow/core/util/port.cc:153] oneDNN custom operations are on. You may see slightly different numerical results due to floating-point round-off errors from different computation orders. To turn them off, set the environment variable `TF_ENABLE_ONEDNN_OPTS=0`.
+2025-07-13 18:53:57.524280: I tensorflow/core/platform/cpu_feature_guard.cc:210] This TensorFlow binary is optimized to use available CPU instructions in performance-critical operations.
+To enable the following instructions: SSE3 SSE4.1 SSE4.2 AVX AVX2 AVX512F AVX512_VNNI FMA, in other operations, rebuild TensorFlow with the appropriate compiler flags.
+susu: run_task() ³Q©I¥s
+susu: ¶}©l°õ¦æ­«½Æ·Ó¤ù°»´ú
+¦¬¨ì 8 ±i¹Ï¤ù
+ ±q C:\dedup_photo_portal\duplicate_photo_detection_model\simclr_ckpt\ckpt-005.weights.h5 Äò°V (start_ep=6)
+ ¶}©l¯S¼x´£¨ú... (¥i¯à»Ý­n¤@¬q®É¶¡)
+
+[1m1/1[0m [32m====================[0m[37m[0m [1m0s[0m 2s/step
+[1m1/1[0m [32m====================[0m[37m[0m [1m2s[0m 2s/step
+C:\Users\User\anaconda3\envs\tkinter\Lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+C:\Users\User\anaconda3\envs\tkinter\Lib\site-packages\sklearn\utils\deprecation.py:151: FutureWarning: 'force_all_finite' was renamed to 'ensure_all_finite' in 1.6 and will be removed in 1.8.
+  warnings.warn(
+ Âø°T   (8 ±i)¡G
+    C:\dedup_photo_portal\duplicate_photo_detection_model\image1\000001 - ½Æ»s.jpg
+    C:\dedup_photo_portal\duplicate_photo_detection_model\image1\000001.jpg
+    C:\dedup_photo_portal\duplicate_photo_detection_model\image1\000002.jpg
+    C:\dedup_photo_portal\duplicate_photo_detection_model\image1\000003 - ½Æ»s.jpg
+    C:\dedup_photo_portal\duplicate_photo_detection_model\image1\000003.jpg
+ pHash less than 1¡G¦@ 3 ±i­«½Æ¹Ï
+ ¤w¿é¥X duplicates.csv
